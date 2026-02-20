@@ -1,0 +1,38 @@
+# Virtual environments
+venv/
+backend/venv/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+backend/.env
+
+# ChromaDB
+chroma_db/
+backend/chroma_db/
+
+# Node
+node_modules/
+
+# Models (large binary files)
+models/
+*.gguf
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo

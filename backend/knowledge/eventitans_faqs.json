@@ -1,0 +1,177 @@
+[
+  {
+    "question": "What is Eventitans?",
+    "answer": "Eventitans is a full-service event management and planning platform. We provide end-to-end tools for event planning, venue management, vendor coordination, budget tracking, team collaboration, marketing, and analytics.",
+    "category": "about"
+  },
+  {
+    "question": "How does Eventitans work?",
+    "answer": "Sign up, choose your plan, and start planning your event using our suite of tools. From venue search to vendor coordination, budget tracking to marketing automation - everything is in one platform.",
+    "category": "about"
+  },
+  {
+    "question": "What are the pricing plans?",
+    "answer": "We offer three tiers: Starter (Free) - up to 3 events/month with basic analytics; Pro (Rs 2,999/month) - unlimited events with advanced features; Enterprise (Custom pricing) - white-label solution with dedicated support.",
+    "category": "pricing"
+  },
+  {
+    "question": "What does the Starter plan include?",
+    "answer": "The Starter plan is free and includes: up to 3 events per month, basic analytics, email support, and up to 100 attendees per event. Perfect for getting started with event management.",
+    "category": "pricing"
+  },
+  {
+    "question": "What does the Pro plan include?",
+    "answer": "The Pro plan at Rs 2,999/month includes: unlimited events, advanced analytics, priority support, vendor marketplace access, custom branding, and up to 5,000 attendees per event.",
+    "category": "pricing"
+  },
+  {
+    "question": "What does the Enterprise plan include?",
+    "answer": "The Enterprise plan offers custom pricing with: white-label solution, dedicated account manager, API access, custom integrations, unlimited attendees, and SLA guarantee. Contact us for a quote.",
+    "category": "pricing"
+  },
+  {
+    "question": "How do I plan an event with Eventitans?",
+    "answer": "Start by creating your event in the dashboard. Use our timeline templates to set milestones, search and book venues, coordinate vendors through our marketplace, set your budget, and assign tasks to your team.",
+    "category": "planning"
+  },
+  {
+    "question": "What event planning tools are available?",
+    "answer": "Our planning tools include: customizable timeline templates, task management with deadlines, checklist builder, milestone tracking, collaboration workspace, and automated reminders.",
+    "category": "planning"
+  },
+  {
+    "question": "How does venue management work?",
+    "answer": "Search venues by location, capacity, and type. View virtual tours, check availability in real-time, compare pricing, and book directly through the platform. We partner with venues across major Indian cities.",
+    "category": "venue"
+  },
+  {
+    "question": "Can I search and compare venues?",
+    "answer": "Yes! Our venue search lets you filter by location, capacity, amenities, and budget. Compare multiple venues side-by-side, view virtual tours, and check real-time availability.",
+    "category": "venue"
+  },
+  {
+    "question": "How does vendor coordination work?",
+    "answer": "Access our vendor marketplace with ratings and reviews. Browse caterers, decorators, photographers, AV technicians, and more. Send RFQs, compare quotes, and manage all vendor communication in one place.",
+    "category": "vendor"
+  },
+  {
+    "question": "What types of vendors are available?",
+    "answer": "Our marketplace includes caterers, decorators, photographers, videographers, AV technicians, florists, entertainment providers, security services, and more - all vetted with ratings and reviews.",
+    "category": "vendor"
+  },
+  {
+    "question": "How does budget tracking work?",
+    "answer": "Set your total budget and allocate across categories (venue, catering, decor, marketing, etc.). Track expenses in real-time, get alerts when nearing limits, and generate financial reports.",
+    "category": "budget"
+  },
+  {
+    "question": "Can I track expenses in real-time?",
+    "answer": "Yes! Our budget tracker monitors expenses in real-time across all categories. Get instant alerts when spending approaches limits, view spending trends, and export detailed financial reports.",
+    "category": "budget"
+  },
+  {
+    "question": "How does team collaboration work?",
+    "answer": "Invite team members with role-based access (admin, manager, coordinator, viewer). Assign tasks, share files, communicate through built-in chat, and track everyone's progress in real-time.",
+    "category": "team"
+  },
+  {
+    "question": "What marketing tools does Eventitans offer?",
+    "answer": "Marketing automation includes: email campaign management, social media scheduling and posting, SMS notifications, landing page builder, attendee segmentation, and campaign performance analytics.",
+    "category": "marketing"
+  },
+  {
+    "question": "How do email campaigns work?",
+    "answer": "Create and send professional email campaigns with our drag-and-drop builder. Segment your audience, schedule sends, track open rates and clicks, and automate follow-up sequences.",
+    "category": "marketing"
+  },
+  {
+    "question": "What analytics and reporting is available?",
+    "answer": "Our real-time analytics dashboard covers: ticket sales trends, revenue tracking, attendee demographics, marketing campaign performance, check-in statistics, and post-event satisfaction scores.",
+    "category": "analytics"
+  },
+  {
+    "question": "Can I generate custom reports?",
+    "answer": "Yes! Generate custom reports on sales, attendance, revenue, marketing performance, and more. Export to PDF or CSV, schedule automated reports, and share with stakeholders.",
+    "category": "analytics"
+  },
+  {
+    "question": "How does the check-in system work?",
+    "answer": "Our QR-based check-in system lets you scan attendee tickets at entry using our mobile app. Track real-time attendance, manage multiple entry points, and prevent duplicate entries.",
+    "category": "checkin"
+  },
+  {
+    "question": "How does sponsor management work?",
+    "answer": "Our sponsor portal lets you create sponsorship packages, track sponsor deliverables, manage sponsor branding at events, generate ROI reports for sponsors, and maintain sponsor relationships.",
+    "category": "sponsors"
+  },
+  {
+    "question": "How do sponsorship packages work?",
+    "answer": "Create tiered sponsorship packages (Title, Gold, Silver, etc.) with defined benefits. Track deliverables, manage brand placements, and provide sponsors with performance reports and ROI metrics.",
+    "category": "sponsors"
+  },
+  {
+    "question": "Can I run post-event surveys?",
+    "answer": "Yes! Create custom post-event surveys, send them automatically to attendees, collect feedback and ratings, analyze results with our reporting tools, and use insights for future events.",
+    "category": "analytics"
+  },
+  {
+    "question": "Does Eventitans offer API access?",
+    "answer": "API access is available on the Enterprise plan. Integrate Eventitans with your existing systems, CRM, payment gateways, and other tools. We provide full documentation and integration support.",
+    "category": "features"
+  },
+  {
+    "question": "Is there a mobile app?",
+    "answer": "Yes! Our mobile app lets you manage events on-the-go, scan QR codes for check-in, view real-time analytics, communicate with your team, and receive push notifications for important updates.",
+    "category": "features"
+  },
+  {
+    "question": "How do I contact Eventitans support?",
+    "answer": "Starter plan users get email support. Pro plan users get priority support with faster response times. Enterprise users get a dedicated account manager. Email us at support@eventitans.com.",
+    "category": "support"
+  },
+  {
+    "question": "What types of events can I manage?",
+    "answer": "Eventitans supports all event types: corporate conferences, product launches, weddings, social gatherings, concerts, festivals, trade shows, workshops, seminars, team building events, and more.",
+    "category": "features"
+  },
+  {
+    "question": "How do I manage multiple events?",
+    "answer": "Pro and Enterprise plans support unlimited events. View all events in a unified dashboard, manage separate budgets and teams, and get consolidated analytics across all your events.",
+    "category": "features"
+  },
+  {
+    "question": "What makes Eventitans different?",
+    "answer": "Eventitans provides true end-to-end event management in one platform: planning, venues, vendors, budget, team, marketing, analytics, and post-event feedback - not just ticketing.",
+    "category": "about"
+  },
+  {
+    "question": "Can I white-label the platform?",
+    "answer": "Yes! The Enterprise plan includes white-label solutions with your branding, custom domain, and personalized interface. Perfect for agencies and large organizations managing multiple events.",
+    "category": "features"
+  },
+  {
+    "question": "How does the timeline template feature work?",
+    "answer": "Choose from pre-built timeline templates for different event types (conference, wedding, concert, etc.). Customize milestones, set deadlines, assign tasks to team members, and track progress visually.",
+    "category": "planning"
+  },
+  {
+    "question": "Can I manage registrations and attendees?",
+    "answer": "Yes! Create custom registration forms, manage attendee lists, send confirmation emails, track RSVPs, segment attendees, and export attendee data for your records.",
+    "category": "features"
+  },
+  {
+    "question": "How secure is my data on Eventitans?",
+    "answer": "We use industry-standard encryption, secure cloud hosting, and comply with data protection regulations. Your event data, attendee information, and financial records are fully protected.",
+    "category": "security"
+  },
+  {
+    "question": "Can I upgrade or downgrade my plan?",
+    "answer": "Yes! You can upgrade or downgrade your plan anytime from your account settings. When upgrading, you get immediate access to new features. Downgrades take effect at the next billing cycle.",
+    "category": "pricing"
+  },
+  {
+    "question": "How do I get started with Eventitans?",
+    "answer": "Sign up for free at eventitans.com, explore with the Starter plan, and upgrade when you need more features. Our onboarding guide walks you through setting up your first event.",
+    "category": "getting_started"
+  }
+]

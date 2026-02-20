@@ -1,0 +1,292 @@
+[
+  {
+    "question": "What is Tickets99?",
+    "answer": "Tickets99 is India's premier event ticketing and management platform. We help event organizers sell tickets, manage attendees, and grow their events with powerful tools and analytics. Legal entity: ELEVENTS METAESTATE PRIVATE LIMITED (CIN: U62099TS2024PTC180666).",
+    "category": "about"
+  },
+  {
+    "question": "How does Tickets99 work?",
+    "answer": "Simply create an account at tickets99.com, set up your event page with details and ticket types, and start selling. We handle payments, ticket delivery, and check-in - you focus on creating amazing experiences!",
+    "category": "about"
+  },
+  {
+    "question": "What are Tickets99's stats and numbers?",
+    "answer": "Tickets99 has hosted 1,999+ events with 499,999+ happy attendees and 599+ organizers across 7+ Indian cities including Hyderabad, Delhi, Mumbai, Bangalore, Jaipur, Chennai, and Noida.",
+    "category": "about"
+  },
+  {
+    "question": "What is the pricing for Tickets99?",
+    "answer": "Tickets99 pricing is simple: free to list events, 2-5% commission on ticket sales only. Payment processing is 2% + GST. Zero upfront costs, no monthly fees, no hidden charges.",
+    "category": "pricing"
+  },
+  {
+    "question": "Is there any cost to create an account?",
+    "answer": "No! Creating an account and listing your event is completely free. We only charge a small commission (2-5%) on ticket sales, so you pay nothing until you sell.",
+    "category": "pricing"
+  },
+  {
+    "question": "What are the payment processing fees?",
+    "answer": "Payment processing is 2% + GST, which applies to all online transactions. This is standard payment gateway charges handled through our secure payment partners.",
+    "category": "pricing"
+  },
+  {
+    "question": "What features does the basic plan include?",
+    "answer": "Basic features include: event page creation, basic analytics, email support, and standard QR check-in. All included free with your account.",
+    "category": "pricing"
+  },
+  {
+    "question": "What premium features are available?",
+    "answer": "Premium features include: custom branding, advanced analytics, priority support, API access, and a dedicated account manager for high-volume organizers.",
+    "category": "pricing"
+  },
+  {
+    "question": "How do I create an event?",
+    "answer": "Log into your dashboard, click 'Create Event', fill in your event details, set up ticket types and pricing, add images, and publish. It takes less than 5 minutes!",
+    "category": "organizer"
+  },
+  {
+    "question": "How do I get started as an organizer?",
+    "answer": "Just head to tickets99.com, sign up for free, and create your first event in under 5 minutes! Our team can also help you get set up.",
+    "category": "organizer"
+  },
+  {
+    "question": "When do organizers get paid?",
+    "answer": "Payments are processed directly to your linked bank account. Standard settlements happen within 3-5 business days after the event. Instant settlement options are also available.",
+    "category": "organizer"
+  },
+  {
+    "question": "What are the benefits for organizers?",
+    "answer": "Organizer benefits include: zero upfront cost, quick setup in under 5 minutes, real-time analytics dashboard, seamless QR check-in, direct bank payments, and 24/7 support.",
+    "category": "organizer"
+  },
+  {
+    "question": "Can I offer discounts and promo codes?",
+    "answer": "Yes! You can create unlimited discount codes, early bird pricing, group discounts, and special offers to boost your ticket sales. It's all built into the platform.",
+    "category": "organizer"
+  },
+  {
+    "question": "How does QR check-in work?",
+    "answer": "Each ticket has a unique QR code. Use our mobile app to scan and validate tickets at entry. It's fast, secure, and prevents duplicate entries.",
+    "category": "features"
+  },
+  {
+    "question": "What ticket types can I create?",
+    "answer": "You can create multiple ticket types including Early Bird, VIP, Regular, and Group tickets with dynamic pricing and discounts for each type.",
+    "category": "organizer"
+  },
+  {
+    "question": "How do I buy tickets?",
+    "answer": "Browse events on tickets99.com, select your event, choose ticket type and quantity, and complete the secure checkout. You'll receive tickets via email instantly!",
+    "category": "attendee"
+  },
+  {
+    "question": "Can I get a refund?",
+    "answer": "Refund policies are set by individual event organizers. Check the event page for refund terms, or contact the organizer directly. You can also email support@tickets99.com with your booking ID.",
+    "category": "attendee"
+  },
+  {
+    "question": "How do I cancel a ticket?",
+    "answer": "To cancel a ticket, check the event page for the cancellation policy. You can also email support@tickets99.com with your booking details and we'll assist you.",
+    "category": "attendee"
+  },
+  {
+    "question": "How do I access my tickets?",
+    "answer": "Tickets are sent to your email immediately after purchase. You can also access them in your Tickets99 account under 'My Tickets'. Just show the QR code at entry!",
+    "category": "attendee"
+  },
+  {
+    "question": "What payment methods are accepted?",
+    "answer": "We accept UPI, credit/debit cards, net banking, and digital wallets. Payments are processed securely through Stripe and other trusted payment partners.",
+    "category": "payment"
+  },
+  {
+    "question": "Is my payment information secure?",
+    "answer": "Absolutely! We use industry-standard encryption for all transactions. Payment data is processed securely through Stripe and never stored on our servers.",
+    "category": "security"
+  },
+  {
+    "question": "What event types are supported?",
+    "answer": "We support all types: music concerts, comedy shows, theater and drama, sports events, conferences, seminars, workshops, festivals, corporate events, weddings, birthdays, and meetups.",
+    "category": "features"
+  },
+  {
+    "question": "Which cities is Tickets99 available in?",
+    "answer": "We're active in Hyderabad, Delhi, Mumbai, Bangalore, Jaipur, Chennai, and Noida - with more cities coming soon! Cities like Pune, Kolkata, Goa, Lucknow, Ahmedabad, and Chandigarh are planned.",
+    "category": "cities"
+  },
+  {
+    "question": "What features does Tickets99 offer?",
+    "answer": "Key features include: online ticketing, QR code check-in, real-time analytics dashboard, mobile app (iOS and Android), discount codes, direct bank payments, and marketing tools.",
+    "category": "features"
+  },
+  {
+    "question": "Does Tickets99 have a mobile app?",
+    "answer": "Yes! We have a mobile app for both iOS and Android. Organizers can track sales, manage events, and scan QR codes for check-in on the go.",
+    "category": "features"
+  },
+  {
+    "question": "What analytics and reporting is available?",
+    "answer": "We provide a real-time analytics dashboard showing ticket sales, revenue, attendee demographics, and marketing insights. All included with your account!",
+    "category": "features"
+  },
+  {
+    "question": "Does Tickets99 offer API access?",
+    "answer": "Yes! We offer API access for custom integrations. Email our team at support@tickets99.com and they'll share the documentation and help you set it up.",
+    "category": "features"
+  },
+  {
+    "question": "What marketing tools are available?",
+    "answer": "Marketing tools include: influencer marketing integration, social media sharing tools, email campaign management, discount codes and promos, and analytics insights.",
+    "category": "features"
+  },
+  {
+    "question": "How can I contact Tickets99 support?",
+    "answer": "You can reach us at info@tickets99.com, call +91 9652095793 (India) or +1(470)296-4145 (US). Our India office is at Madhapur, Hyderabad, Telangana. US office is at 566 Peachtree Parkway, Ste 120, Cumming GA 30041.",
+    "category": "support"
+  },
+  {
+    "question": "What partnership opportunities are available?",
+    "answer": "We offer sponsor partnerships (brand visibility at events), venue partnerships (list your venue for organizers), corporate partnerships (white-label solutions), and a reseller program (earn commissions).",
+    "category": "partnership"
+  },
+  {
+    "question": "How do sponsor partnerships work?",
+    "answer": "Sponsors connect with thousands of attendees through event sponsorships. Benefits include brand visibility, targeted audience reach, activation opportunities, and data insights.",
+    "category": "partnership"
+  },
+  {
+    "question": "How do venue partnerships work?",
+    "answer": "List your venue and get connected with event organizers. Benefits include increased bookings, event calendar integration, commission-based model, and marketing support.",
+    "category": "partnership"
+  },
+  {
+    "question": "What corporate partnership solutions are available?",
+    "answer": "Corporate partnerships include white-label solutions, dedicated support, custom integrations, and volume discounts for enterprise event management needs.",
+    "category": "partnership"
+  },
+  {
+    "question": "How does the reseller program work?",
+    "answer": "Become a Tickets99 authorized reseller and earn commission. Benefits include training and support, marketing materials, and priority access to new features.",
+    "category": "partnership"
+  },
+  {
+    "question": "What makes Tickets99 different from competitors?",
+    "answer": "What sets Tickets99 apart: low 2-5% commission, zero upfront costs, personal support for every organizer, and built specifically for the Indian market!",
+    "category": "about"
+  },
+  {
+    "question": "How do event ticketing services work?",
+    "answer": "Our ticketing service includes complete online ticket sales and distribution with multiple ticket types, dynamic pricing, QR code generation, secure payment processing, and real-time availability tracking.",
+    "category": "features"
+  },
+  {
+    "question": "What event management tools are available?",
+    "answer": "Event management tools include: event page creation and customization, attendee registration system, quick QR check-in, real-time analytics dashboard, and attendee engagement tracking.",
+    "category": "features"
+  },
+  {
+    "question": "How does payment settlement work for organizers?",
+    "answer": "Organizers get paid directly to their bank account. We support direct payments via Stripe, multiple payment gateways, UPI/Cards/Net Banking, instant settlement options, and provide detailed financial reports.",
+    "category": "payment"
+  },
+  {
+    "question": "Can I sell tickets for free events?",
+    "answer": "Yes! You can list free events on Tickets99 at no cost. Free events help you manage registrations, track attendance, and use our check-in system.",
+    "category": "organizer"
+  },
+  {
+    "question": "How to sell tickets on Tickets99?",
+    "answer": "To sell tickets: sign up free at tickets99.com, create your event, set ticket types and prices, and publish! It takes under 5 minutes. We handle payments and ticket delivery.",
+    "category": "organizer"
+  },
+  {
+    "question": "What security measures does Tickets99 use?",
+    "answer": "We use industry-standard encryption for all transactions. Payment data is processed securely through Stripe and never stored on our servers. Each ticket has a unique QR code to prevent fraud.",
+    "category": "security"
+  },
+  {
+    "question": "Can I integrate Tickets99 with my CRM?",
+    "answer": "Yes, we offer API access and webhook support for custom integrations with CRM systems and other tools. Contact support@tickets99.com for documentation.",
+    "category": "features"
+  },
+  {
+    "question": "What is the attendee experience like?",
+    "answer": "Attendees browse events, buy tickets securely, receive instant email confirmation with QR codes, and enjoy fast check-in at the venue. Events are available across 7+ Indian cities.",
+    "category": "attendee"
+  },
+  {
+    "question": "How do discount codes work?",
+    "answer": "Organizers can create unlimited discount codes, set early bird pricing, configure group discounts, and run special promos. All discount features are built into the Tickets99 platform.",
+    "category": "features"
+  },
+  {
+    "question": "What happens if an event is cancelled?",
+    "answer": "If an event is cancelled, refund policies set by the organizer apply. Contact the event organizer or email info@tickets99.com for assistance with your booking.",
+    "category": "attendee"
+  },
+  {
+    "question": "Who founded Tickets99?",
+    "answer": "Tickets99 was founded by Siva Krishna Vangala (CEO) and Divya Somarapu (Co-Founder). Siva holds a Master's degree from North Carolina State University, is Six Sigma Green Belt certified, and has experience at Fortune 500 companies including UPS, BMW, ADP, and Equifax. He founded Tickets99 after identifying that event organizers were losing up to 25% of revenue to registration fees.",
+    "category": "about"
+  },
+  {
+    "question": "What is Tickets99's vision?",
+    "answer": "Tickets99's vision is to become the gold standard in event ticketing, fostering memorable experiences and driving success for organizers globally.",
+    "category": "about"
+  },
+  {
+    "question": "What is the legal entity behind Tickets99?",
+    "answer": "Tickets99 is a product of ELEVENTS METAESTATE PRIVATE LIMITED. CIN: U62099TS2024PTC180666. GST: 36AAHCE9506H1ZH.",
+    "category": "about"
+  },
+  {
+    "question": "Where are Tickets99's offices located?",
+    "answer": "Tickets99 has offices in both India and the US. India Office: C/O Corevance, 3rd Floor, Plot No. 56, Srinivasa Nilayam Harsha Chambers, Sai Nagar, Madhapur, Hyderabad, Telangana 500081. US Corporate Office: 566 Peachtree Parkway, Ste 120, Cumming GA 30041.",
+    "category": "contact"
+  },
+  {
+    "question": "What are Tickets99's phone numbers?",
+    "answer": "India: +91 9652095793. US: +1(470)296-4145. Fax: +1(303)379-6034. Email: info@tickets99.com.",
+    "category": "contact"
+  },
+  {
+    "question": "What are Tickets99's social media accounts?",
+    "answer": "Instagram: @tickets99_official, Facebook: tickets99, YouTube: @Tickets99, Twitter: @tickets99_, LinkedIn: tickets99.",
+    "category": "contact"
+  },
+  {
+    "question": "Why should I host events with Tickets99?",
+    "answer": "Three reasons: 1) Enhanced user experience - platform features complement each other seamlessly, 2) Seamless payment process - direct organizer payment via Stripe, 3) Simple registration - minimal attendee support needed with streamlined registration flow.",
+    "category": "organizer"
+  },
+  {
+    "question": "Does Tickets99 have Zoom integration?",
+    "answer": "Yes! Tickets99 offers Zoom integration for virtual and hybrid events, allowing organizers to host online events with ticketed access.",
+    "category": "features"
+  },
+  {
+    "question": "Does Tickets99 have an influencer program?",
+    "answer": "Yes! Tickets99 has an influencer marketing program to help promote events through social media influencers and content creators.",
+    "category": "features"
+  },
+  {
+    "question": "What is Tickets99's privacy policy?",
+    "answer": "Tickets99 collects personal information for providing services, processing transactions, and enhancing user experience. Credit card details are handled by PCI-DSS certified third parties. Users can access, delete, or port their data. Data is retained for 90 days after account termination. The platform is GDPR compliant.",
+    "category": "security"
+  },
+  {
+    "question": "What is Temples99?",
+    "answer": "Temples99 is a related product by the Tickets99 team that solves temple fund mismanagement in India through transparency solutions and digital donation tracking using ERP systems.",
+    "category": "about"
+  },
+  {
+    "question": "Does Tickets99 support virtual events?",
+    "answer": "Yes! With Zoom integration, organizers can host virtual and hybrid events with ticketed access. Attendees get secure links to join online events after purchasing tickets.",
+    "category": "features"
+  },
+  {
+    "question": "How does Tickets99 handle payments securely?",
+    "answer": "Tickets99 uses Stripe for payment processing. Credit card details are handled exclusively by PCI-DSS certified third parties and are never stored on Tickets99 servers. All transactions use industry-standard encryption.",
+    "category": "security"
+  }
+]

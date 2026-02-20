@@ -1,0 +1,220 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Dual-Brand Chatbot Demo</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f0f2f5;
+      min-height: 100vh;
+    }
+
+    .demo-header {
+      background: linear-gradient(135deg, #1e1b4b, #312e81);
+      color: white;
+      text-align: center;
+      padding: 40px 20px;
+    }
+
+    .demo-header h1 {
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+
+    .demo-header p {
+      font-size: 16px;
+      opacity: 0.8;
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .demo-container {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0;
+      max-width: 1200px;
+      margin: 40px auto;
+      border-radius: 20px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+    }
+
+    @media (max-width: 768px) {
+      .demo-container {
+        grid-template-columns: 1fr;
+        margin: 20px;
+      }
+    }
+
+    .brand-section {
+      padding: 60px 40px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      min-height: 500px;
+    }
+
+    .brand-section.ticket99 {
+      background: linear-gradient(135deg, #fff7ed, #fef3c7);
+    }
+
+    .brand-section.eventitans {
+      background: linear-gradient(135deg, #eef2ff, #e0e7ff);
+    }
+
+    .brand-icon {
+      width: 80px;
+      height: 80px;
+      border-radius: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 36px;
+      margin-bottom: 24px;
+    }
+
+    .ticket99 .brand-icon {
+      background: linear-gradient(135deg, #f97316, #ef4444);
+      box-shadow: 0 4px 16px rgba(249,115,22,0.3);
+    }
+
+    .eventitans .brand-icon {
+      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+      box-shadow: 0 4px 16px rgba(99,102,241,0.3);
+    }
+
+    .brand-section h2 {
+      font-size: 28px;
+      margin-bottom: 8px;
+      color: #1f2937;
+    }
+
+    .brand-section .tagline {
+      font-size: 14px;
+      color: #6b7280;
+      margin-bottom: 24px;
+    }
+
+    .feature-list {
+      list-style: none;
+      text-align: left;
+      margin-bottom: 24px;
+    }
+
+    .feature-list li {
+      padding: 8px 0;
+      color: #374151;
+      font-size: 14px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .feature-list .check {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 12px;
+      color: white;
+      flex-shrink: 0;
+    }
+
+    .ticket99 .check { background: #f97316; }
+    .eventitans .check { background: #6366f1; }
+
+    .brand-cta {
+      padding: 10px 24px;
+      border-radius: 12px;
+      border: none;
+      color: white;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: default;
+    }
+
+    .ticket99 .brand-cta {
+      background: linear-gradient(135deg, #f97316, #ef4444);
+    }
+
+    .eventitans .brand-cta {
+      background: linear-gradient(135deg, #6366f1, #8b5cf6);
+    }
+
+    .demo-footer {
+      text-align: center;
+      padding: 40px 20px;
+      color: #6b7280;
+      font-size: 14px;
+    }
+
+    .demo-footer .hint {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: white;
+      padding: 12px 24px;
+      border-radius: 12px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+      margin-top: 12px;
+      font-size: 15px;
+      color: #374151;
+    }
+  </style>
+</head>
+<body>
+  <div class="demo-header">
+    <h1>Dual-Brand AI Chatbot</h1>
+    <p>Two AI-powered chatbots running simultaneously with independent knowledge bases, powered by RAG and Ollama.</p>
+  </div>
+
+  <div class="demo-container">
+    <div class="brand-section ticket99">
+      <div class="brand-icon">&#127915;</div>
+      <h2>Tickets99</h2>
+      <p class="tagline">India's Premier Event Ticketing Platform</p>
+      <ul class="feature-list">
+        <li><span class="check">&#10003;</span> Event ticketing knowledge base</li>
+        <li><span class="check">&#10003;</span> Organizer & attendee support</li>
+        <li><span class="check">&#10003;</span> Pricing & partnership info</li>
+        <li><span class="check">&#10003;</span> Lead capture for organizers</li>
+        <li><span class="check">&#10003;</span> Multi-language support</li>
+      </ul>
+      <div class="brand-cta">Click the orange button (bottom-right) &rarr;</div>
+    </div>
+
+    <div class="brand-section eventitans">
+      <div class="brand-icon">&#127775;</div>
+      <h2>Eventitans</h2>
+      <p class="tagline">Full-Service Event Management Platform</p>
+      <ul class="feature-list">
+        <li><span class="check">&#10003;</span> Event planning & management</li>
+        <li><span class="check">&#10003;</span> Venue & vendor marketplace</li>
+        <li><span class="check">&#10003;</span> Budget tracking & analytics</li>
+        <li><span class="check">&#10003;</span> 3-tier pricing plans</li>
+        <li><span class="check">&#10003;</span> Multi-language support</li>
+      </ul>
+      <div class="brand-cta">&larr; Click the purple button (bottom-left)</div>
+    </div>
+  </div>
+
+  <div class="demo-footer">
+    <p>Both chatbots can run simultaneously on the same page.</p>
+    <div class="hint">
+      &#128161; Try asking each bot about pricing, features, or how to get started!
+    </div>
+  </div>
+
+  <!-- Load both widget scripts -->
+  <script src="/widgets/ticket99-widget.js"></script>
+  <script src="/widgets/eventitans-widget.js"></script>
+</body>
+</html>
